@@ -1,0 +1,5 @@
+
+
+class Settings:
+
+    DEBUG = True
